@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[18],{104:function(e,a,n){"use strict";n.r(a);var t=n(0),l=n.n(t);a.default=function(){return l.a.createElement("div",null,l.a.createElement("h2",null,"About"),l.a.createElement("p",null,"This is a demo app for flight management system. This app uses React, Redux, React Router, and many other helpful libraries."))}}}]);
+//# sourceMappingURL=18.bundle.js.map
