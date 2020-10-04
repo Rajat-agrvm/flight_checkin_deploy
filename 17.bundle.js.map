@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/components/PageNotFound.js"],"names":["PageNotFound"],"mappings":"2FAAA,2BAIeA,UAFM,kBAAM","file":"17.bundle.js","sourcesContent":["import React from \"react\";\n\nconst PageNotFound = () => <h1>Oops! Page not found.</h1>;\n\nexport default PageNotFound;\n"],"sourceRoot":""}
